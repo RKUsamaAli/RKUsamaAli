@@ -1,5 +1,4 @@
 # Hi, I'm Usama Ali 👋
-Full Stack Engineer | NodeJS | React | GraphQL
 Full-Stack JavaScript Engineer | MongoDB, Express, React, Node.js | SQL | API & Web App
 
 ---
