@@ -1,9 +1,9 @@
 # Hi, I'm Usama Ali 👋
-Full-Stack JavaScript Engineer | MongoDB, Express, React, Node.js | SQL | API & Web App
+Full-Stack JavaScript Engineer | MongoDB, Express, React, Node.js (MERN) | SQL | API & Web App
 
 ---
 ## 🚀 About Me
-Full-stack engineer with 6+ years of experience in lead developer and freelance consultant roles, specializing in the MERN stack and modern JavaScript technologies. I’ve architected and built scalable, secure web applications and RESTful APIs for startups and enterprises across fintech, healthcare, and e-commerce domains. I take pride in writing clean, maintainable code, solving complex technical challenges, optimizing performance, and helping teams ship reliable software that meets real-world demands.
+Full-stack engineer with 6+ years of experience in lead developer roles, specializing in the MERN stack and modern JavaScript technologies. I’ve architected and built scalable, secure web applications and RESTful APIs for startups and enterprises across fintech, healthcare, and e-commerce domains. I take pride in writing clean, maintainable code, solving complex technical challenges, optimizing performance, and helping teams ship reliable software that meets real-world demands.
 
 ### 💼 What I Do
 
@@ -38,3 +38,14 @@ Here you'll find a variety of projects built with clean architecture, security b
 ![CORS](https://img.shields.io/badge/CORS-brightgreen?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 
+    - [**📧 Email Sender App with SMTP, SendGrid & Mailgun 🔗**](https://github.com/RKUsamaAli/Email-Sender-App-with-Node.js)
+
+        > A powerful Node.js-based email sender application that supports **SMTP**, **SendGrid**, and **Mailgun** to programmatically send transactional emails with attachments, HTML content, and multi-recipient support.
+        > #### 🛠 Tech Stack
+        > ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+        ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+        ![Nodemailer](https://img.shields.io/badge/Nodemailer-007BFF?style=for-the-badge)
+        ![SMTP](https://img.shields.io/badge/SMTP-FFDD00?style=for-the-badge)
+        ![SendGrid](https://img.shields.io/badge/SendGrid-00BFFF?logo=sendgrid&logoColor=white&style=for-the-badge)
+        ![Mailgun](https://img.shields.io/badge/Mailgun-F06C63?logo=mailgun&logoColor=white&style=for-the-badge)
+        ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
